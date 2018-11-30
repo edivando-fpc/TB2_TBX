@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="38">
+      <Unit0>
+        <Filename Value="project2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="46" Y="14"/>
+        <UsageCount Value="69"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="34" Y="50"/>
+        <UsageCount Value="65"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\inc\except.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="172"/>
+        <CursorPos Y="181"/>
+        <UsageCount Value="18"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1389"/>
+        <CursorPos Y="1401"/>
+        <UsageCount Value="14"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2034"/>
+        <CursorPos Y="2049"/>
+        <UsageCount Value="7"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\inc\generic.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="816"/>
+        <CursorPos Y="830"/>
+        <UsageCount Value="16"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2858"/>
+        <CursorPos Y="2866"/>
+        <UsageCount Value="31"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\i386\i386.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1450"/>
+        <CursorPos Y="1459"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3510"/>
+        <CursorPos X="24" Y="3513"/>
+        <UsageCount Value="18"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\scrollingwincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="299"/>
+        <CursorPos Y="310"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\objpas\classes\lists.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="56"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1349"/>
+        <CursorPos Y="1363"/>
+        <UsageCount Value="7"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\Source\TBXDkPanels.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4526"/>
+        <CursorPos X="46" Y="4535"/>
+        <UsageCount Value="33"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\tb2k-2.2.2\Source\TB2Dock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5139"/>
+        <CursorPos X="6" Y="5151"/>
+        <UsageCount Value="13"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\objpas\classes\reader.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1718"/>
+        <CursorPos Y="1733"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="Unit2.dfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="Unit1_.lfm"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="18"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1255"/>
+        <CursorPos X="14" Y="1262"/>
+        <UsageCount Value="32"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\customdesigncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="6"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\objpas\typinfo.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1102"/>
+        <CursorPos Y="1111"/>
+        <UsageCount Value="6"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\objpas\classes\compon.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="310"/>
+        <CursorPos Y="321"/>
+        <UsageCount Value="7"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\inc\variant.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="6"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\customcontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos Y="55"/>
+        <UsageCount Value="6"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\Source\TBXLists.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="15" Y="49"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\Source\backup\TBXDkPanels.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="105" Y="12"/>
+        <UsageCount Value="9"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\objpas\classes\cregist.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos Y="109"/>
+        <UsageCount Value="6"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="unit3.lfm"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="21" Y="5"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\Source\tbxreg_comp.pas"/>
+        <UnitName Value="TBXReg_comp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="2" Y="19"/>
+        <UsageCount Value="30"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\LAZARUS\fpc\3.0.4_estavel\rtl\win32\sysinitpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="31" Y="39"/>
+        <UsageCount Value="17"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1039"/>
+        <CursorPos X="22" Y="1053"/>
+        <UsageCount Value="18"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\include\custompanel.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="16"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\Source\TBXStatusBars.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="507"/>
+        <CursorPos X="50" Y="512"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\..\tb2k-2.2.2\Source\TB2Anim.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos X="36" Y="218"/>
+        <UsageCount Value="11"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="..\..\tb2k-2.2.2\Source\TB2Item.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6191"/>
+        <CursorPos X="31" Y="6204"/>
+        <UsageCount Value="13"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="..\..\tb2k-2.2.2\Source\TB2Toolbar.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="537"/>
+        <CursorPos X="3" Y="551"/>
+        <UsageCount Value="13"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="..\..\tb2k-2.2.2\Source\TB2ToolWindow.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="259"/>
+        <CursorPos X="3" Y="276"/>
+        <UsageCount Value="13"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="..\..\tb2k-2.2.2\Source\windelphi.pas"/>
+        <UnitName Value="WinDelphi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17908"/>
+        <CursorPos X="10" Y="17918"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="D:\LAZARUS\lazEstavel\lcl\widgetset\wsextctrls.pp"/>
+        <UnitName Value="WSExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="315"/>
+        <CursorPos X="3" Y="319"/>
+        <UsageCount Value="12"/>
+      </Unit37>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unit3.pas"/>
+        <Line Value="45"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

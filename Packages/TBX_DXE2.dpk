@@ -1,0 +1,101 @@
+package TBX_DXE2;
+
+{$R *.res}
+{$R 'TBXReg.dcr'}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$DESCRIPTION 'Toolbar2000 - TBX Extensions'}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl,
+  rtl,
+  dclstd;
+
+contains
+  TBX in '..\Source\TBX.pas',
+  TBXConsts in '..\Source\TBXConsts.pas',
+  TBXColorConsts in '..\Source\TBXColorConsts.pas',
+  TBXDkPanels in '..\Source\TBXDkPanels.pas',
+  TBXExtItems in '..\Source\TBXExtItems.pas',
+  TBXLists in '..\Source\TBXLists.pas',
+  TBXMDI in '..\Source\TBXMDI.pas',
+  TBXStatusBars in '..\Source\TBXStatusBars.pas',
+  TBXSwitcher in '..\Source\TBXSwitcher.pas',
+  TBXThemes in '..\Source\TBXThemes.pas',
+  TBXToolPals in '..\Source\TBXToolPals.pas',
+  TBXUtils in '..\Source\TBXUtils.pas',
+  TBXUxThemes in '..\Source\TBXUxThemes.pas',
+  tbxreg_comp in '..\Source\tbxreg_comp.pas',
+  TBXPanel in '..\Source\TBXPanel.pas',
+  TB2Acc in '..\Source\tb2\TB2Acc.pas',
+  TB2Anim in '..\Source\tb2\TB2Anim.pas',
+  TB2Common in '..\Source\tb2\TB2Common.pas',
+  TB2Consts in '..\Source\tb2\TB2Consts.pas',
+  TB2Dock in '..\Source\tb2\TB2Dock.pas',
+  TB2ExtItems in '..\Source\tb2\TB2ExtItems.pas',
+  TB2Hook in '..\Source\tb2\TB2Hook.pas',
+  TB2Item in '..\Source\tb2\TB2Item.pas',
+  TB2MDI in '..\Source\tb2\TB2MDI.pas',
+  TB2MRU in '..\Source\tb2\TB2MRU.pas',
+  TB2Toolbar in '..\Source\tb2\TB2Toolbar.pas',
+  TB2ToolWindow in '..\Source\tb2\TB2ToolWindow.pas',
+  TB2Types in '..\Source\tb2\TB2Types.pas',
+  TB2Version in '..\Source\tb2\TB2Version.pas',
+  TBXAluminumTheme in '..\Source\Themes\TBXAluminumTheme.pas',
+  TBXDefaultTheme in '..\Source\Themes\TBXDefaultTheme.pas',
+  TBXOffice2003Theme in '..\Source\Themes\TBXOffice2003Theme.pas',
+  TBXOffice2007Theme in '..\Source\Themes\TBXOffice2007Theme.pas',
+  TBXOfficeXPTheme in '..\Source\Themes\TBXOfficeXPTheme.pas',
+  TBXOutLook2007Theme in '..\Source\Themes\TBXOutLook2007Theme.pas',
+  TBXProfessionalTheme in '..\Source\Themes\TBXProfessionalTheme.pas',
+  TBXStripesTheme in '..\Source\Themes\TBXStripesTheme.pas',
+  rmkThemes in '..\Source\rmkThemes\rmkThemes.pas',
+  TBXAthenTheme in '..\Source\rmkThemes\TBXAthenTheme.pas',
+  TBXDamsokaTheme in '..\Source\rmkThemes\TBXDamsokaTheme.pas',
+  TBXDreamTheme in '..\Source\rmkThemes\TBXDreamTheme.pas',
+  TBXEchoTheme in '..\Source\rmkThemes\TBXEchoTheme.pas',
+  TBXEos9Theme in '..\Source\rmkThemes\TBXEos9Theme.pas',
+  TBXEosTheme in '..\Source\rmkThemes\TBXEosTheme.pas',
+  TBXMonaiXPTheme in '..\Source\rmkThemes\TBXMonaiXPTheme.pas',
+  TBXNewOfficeAdaptiveTheme in '..\Source\rmkThemes\TBXNewOfficeAdaptiveTheme.pas',
+  TBXNewOfficeTheme in '..\Source\rmkThemes\TBXNewOfficeTheme.pas',
+  TBXNexos2Theme in '..\Source\rmkThemes\TBXNexos2Theme.pas',
+  TBXNexos3Theme in '..\Source\rmkThemes\TBXNexos3Theme.pas',
+  TBXNexos4Theme in '..\Source\rmkThemes\TBXNexos4Theme.pas',
+  TBXNexos5Theme in '..\Source\rmkThemes\TBXNexos5Theme.pas',
+  TBXNexosXTheme in '..\Source\rmkThemes\TBXNexosXTheme.pas',
+  TBXOffice11AdaptiveTheme in '..\Source\rmkThemes\TBXOffice11AdaptiveTheme.pas',
+  TBXOffice11XPTheme in '..\Source\rmkThemes\TBXOffice11XPTheme.pas',
+  TBXOfficeCTheme in '..\Source\rmkThemes\TBXOfficeCTheme.pas',
+  TBXOfficeKTheme in '..\Source\rmkThemes\TBXOfficeKTheme.pas',
+  TBXrmkThemes in '..\Source\rmkThemes\TBXrmkThemes.pas',
+  TBXRomaTheme in '..\Source\rmkThemes\TBXRomaTheme.pas',
+  TBXSentimoXTheme in '..\Source\rmkThemes\TBXSentimoXTheme.pas',
+  TBXTristanTheme in '..\Source\rmkThemes\TBXTristanTheme.pas',
+  TBXWhidbeyTheme in '..\Source\rmkThemes\TBXWhidbeyTheme.pas',
+  TBXXitoTheme in '..\Source\rmkThemes\TBXXitoTheme.pas';
+
+end.

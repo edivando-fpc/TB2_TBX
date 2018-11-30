@@ -1,0 +1,29 @@
+object Form2: TForm2
+  Left = 417
+  Height = 197
+  Top = 252
+  Width = 345
+  Caption = 'Form2'
+  ClientHeight = 197
+  ClientWidth = 345
+  Color = clBtnFace
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Position = poDefault
+  LCLVersion = '1.8.2.0'
+  object Memo1: TMemo
+    Left = 0
+    Height = 197
+    Top = 0
+    Width = 345
+    Align = alClient
+    BorderStyle = bsNone
+    Lines.Strings = (
+      'TBX Package'
+      'Copyright 2001–2004 Alex A. Denisov. All rights reserved.'
+      'Visit TBX home page at: http://g32.org'
+    )
+    TabOrder = 0
+  end
+end

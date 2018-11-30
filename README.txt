@@ -1,8 +1,4 @@
-![GitHub](https://img.shields.io/badge/Delphi-XE2-red.svg)
-![GitHub](https://img.shields.io/badge/Lazarus-FPC-blue.svg)
-
-# TB2-TBX for Lazarus and Delphi
-TB2 TBX component for Lazarus and Delphi
+TBX-TB2 for Lazarus and Delphi
 
 TBX is an add-on package for TB2 components: http://www.jrsoftware.org/tb2k.php.
 
@@ -20,16 +16,10 @@ TBX expands TB2 with the following new features:
 
 Credits
 
-Edivando(https://github.com/edivando-fpc/), Compatibility for Lazarus/FPC
-
+Edivando(https://github.com/edivando-fpc/), Compatibility for Lazarus/FPC 
 Alex A. Denisov, initial developer.
-
 Roy Magne Klever (http://rmklever.com), contributor.
-
 Robert Lee (http://www.silverpointdevelopment.com), contributor.
-
 Vladimir Bochkarev (boxa@mail.ru), contributor.
-
 Alexander Klimov (schwarzkopf-m@yandex.ru), contributor.
-
 Yury Plashenkov (https://github.com/plashenkov), contributor and current maintainer.

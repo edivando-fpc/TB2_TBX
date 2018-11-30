@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="tbx_d7"/>
+    <Type Value="RunAndDesignTime"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <IncludeFiles Value="..\Source"/>
+        <OtherUnitFiles Value="..\Source;..\Source\Themes;..\Source\rmkThemes;..\Source\tb2"/>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <Parsing>
+        <SyntaxOptions>
+          <SyntaxMode Value="Delphi"/>
+        </SyntaxOptions>
+      </Parsing>
+      <CodeGeneration>
+        <Optimizations>
+          <OptimizationLevel Value="0"/>
+        </Optimizations>
+      </CodeGeneration>
+      <Other>
+        <Verbosity>
+          <ShowWarn Value="False"/>
+          <ShowNotes Value="False"/>
+          <ShowHints Value="False"/>
+        </Verbosity>
+        <CustomOptions Value="-gw -gl -godwarfsets -gt -Co -Cr -Ci -Sa"/>
+      </Other>
+    </CompilerOptions>
+    <Files Count="68">
+      <Item1>
+        <Filename Value="..\Source\TBX.inc"/>
+        <Type Value="Include"/>
+      </Item1>
+      <Item2>
+        <Filename Value="..\Source\TBX.pas"/>
+        <UnitName Value="TBX"/>
+      </Item2>
+      <Item3>
+        <Filename Value="..\Source\TBXColorConsts.pas"/>
+        <UnitName Value="TBXColorConsts"/>
+      </Item3>
+      <Item4>
+        <Filename Value="..\Source\TBXConsts.pas"/>
+        <UnitName Value="TBXConsts"/>
+      </Item4>
+      <Item5>
+        <Filename Value="..\Source\TBXDkPanels.pas"/>
+        <UnitName Value="TBXDkPanels"/>
+      </Item5>
+      <Item6>
+        <Filename Value="..\Source\TBXExtItems.pas"/>
+        <UnitName Value="TBXExtItems"/>
+      </Item6>
+      <Item7>
+        <Filename Value="..\Source\TBXLists.pas"/>
+        <UnitName Value="TBXLists"/>
+      </Item7>
+      <Item8>
+        <Filename Value="..\Source\TBXMDI.pas"/>
+        <UnitName Value="TBXMDI"/>
+      </Item8>
+      <Item9>
+        <Filename Value="..\Source\TBXStatusBars.pas"/>
+        <UnitName Value="TBXStatusBars"/>
+      </Item9>
+      <Item10>
+        <Filename Value="..\Source\TBXStrEdit.pas"/>
+        <UnitName Value="TBXStrEdit"/>
+      </Item10>
+      <Item11>
+        <Filename Value="..\Source\TBXSwitcher.pas"/>
+        <UnitName Value="TBXSwitcher"/>
+      </Item11>
+      <Item12>
+        <Filename Value="..\Source\TBXThemes.pas"/>
+        <UnitName Value="TBXThemes"/>
+      </Item12>
+      <Item13>
+        <Filename Value="..\Source\TBXToolPals.pas"/>
+        <UnitName Value="TBXToolPals"/>
+      </Item13>
+      <Item14>
+        <Filename Value="..\Source\TBXUtils.pas"/>
+        <UnitName Value="TBXUtils"/>
+      </Item14>
+      <Item15>
+        <Filename Value="..\Source\TBXUxThemes.pas"/>
+        <UnitName Value="TBXUxThemes"/>
+      </Item15>
+      <Item16>
+        <Filename Value="..\Source\Themes\TBXAluminumTheme.pas"/>
+        <UnitName Value="TBXAluminumTheme"/>
+      </Item16>
+      <Item17>
+        <Filename Value="..\Source\Themes\TBXDefaultTheme.pas"/>
+        <UnitName Value="TBXDefaultTheme"/>
+      </Item17>
+      <Item18>
+        <Filename Value="..\Source\Themes\TBXOfficeXPTheme.pas"/>
+        <UnitName Value="TBXOfficeXPTheme"/>
+      </Item18>
+      <Item19>
+        <Filename Value="..\Source\Themes\TBXStripesTheme.pas"/>
+        <UnitName Value="TBXStripesTheme"/>
+      </Item19>
+      <Item20>
+        <Filename Value="..\Source\tbxreg_comp.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="TBXReg_comp"/>
+      </Item20>
+      <Item21>
+        <Filename Value="..\Source\rmkThemes\TBXrmkThemes.pas"/>
+        <UnitName Value="TBXrmkThemes"/>
+      </Item21>
+      <Item22>
+        <Filename Value="..\Source\Themes\TBXOffice2003Theme.pas"/>
+        <UnitName Value="TBXOffice2003Theme"/>
+      </Item22>
+      <Item23>
+        <Filename Value="..\Source\Themes\TBXOffice2007Theme.pas"/>
+        <UnitName Value="TBXOffice2007Theme"/>
+      </Item23>
+      <Item24>
+        <Filename Value="..\Source\TBXPanel.pas"/>
+        <UnitName Value="TBXPanel"/>
+      </Item24>
+      <Item25>
+        <Filename Value="..\Source\Themes\TBXWhidbeyTheme.pas"/>
+        <UnitName Value="TBXWhidbeyTheme"/>
+      </Item25>
+      <Item26>
+        <Filename Value="..\Source\tb2\TB2Acc.pas"/>
+        <UnitName Value="TB2Acc"/>
+      </Item26>
+      <Item27>
+        <Filename Value="..\Source\tb2\TB2Anim.pas"/>
+        <UnitName Value="TB2Anim"/>
+      </Item27>
+      <Item28>
+        <Filename Value="..\Source\tb2\TB2Common.pas"/>
+        <UnitName Value="TB2Common"/>
+      </Item28>
+      <Item29>
+        <Filename Value="..\Source\tb2\TB2Consts.pas"/>
+        <UnitName Value="TB2Consts"/>
+      </Item29>
+      <Item30>
+        <Filename Value="..\Source\tb2\tb2delphi.pas"/>
+        <UnitName Value="TB2Delphi"/>
+      </Item30>
+      <Item31>
+        <Filename Value="..\Source\tb2\TB2Dock.pas"/>
+        <UnitName Value="TB2Dock"/>
+      </Item31>
+      <Item32>
+        <Filename Value="..\Source\tb2\TB2ExtItems.pas"/>
+        <UnitName Value="TB2ExtItems"/>
+      </Item32>
+      <Item33>
+        <Filename Value="..\Source\tb2\TB2Hook.pas"/>
+        <UnitName Value="TB2Hook"/>
+      </Item33>
+      <Item34>
+        <Filename Value="..\Source\tb2\TB2Item.pas"/>
+        <UnitName Value="TB2Item"/>
+      </Item34>
+      <Item35>
+        <Filename Value="..\Source\tb2\TB2MDI.pas"/>
+        <UnitName Value="TB2MDI"/>
+      </Item35>
+      <Item36>
+        <Filename Value="..\Source\tb2\TB2MRU.pas"/>
+        <UnitName Value="TB2MRU"/>
+      </Item36>
+      <Item37>
+        <Filename Value="..\Source\tb2\TB2OleMarshal.pas"/>
+        <UnitName Value="TB2OleMarshal"/>
+      </Item37>
+      <Item38>
+        <Filename Value="..\Source\tb2\tb2reg_comp.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="TB2Reg_Comp"/>
+      </Item38>
+      <Item39>
+        <Filename Value="..\Source\tb2\TB2Toolbar.pas"/>
+        <UnitName Value="TB2Toolbar"/>
+      </Item39>
+      <Item40>
+        <Filename Value="..\Source\tb2\TB2ToolWindow.pas"/>
+        <UnitName Value="TB2ToolWindow"/>
+      </Item40>
+      <Item41>
+        <Filename Value="..\Source\tb2\TB2Types.pas"/>
+        <UnitName Value="TB2Types"/>
+      </Item41>
+      <Item42>
+        <Filename Value="..\Source\tb2\windelphi.pas"/>
+        <UnitName Value="Windelphi"/>
+      </Item42>
+      <Item43>
+        <Filename Value="..\Source\Themes\TBXOutLook2007Theme.pas"/>
+        <UnitName Value="TBXOutLook2007Theme"/>
+      </Item43>
+      <Item44>
+        <Filename Value="..\Source\Themes\TBXProfessionalTheme.pas"/>
+        <UnitName Value="TBXProfessionalTheme"/>
+      </Item44>
+      <Item45>
+        <Filename Value="..\Source\rmkThemes\rmkThemes.pas"/>
+        <UnitName Value="rmkThemes"/>
+      </Item45>
+      <Item46>
+        <Filename Value="..\Source\rmkThemes\TBXAthenTheme.pas"/>
+        <UnitName Value="TBXAthenTheme"/>
+      </Item46>
+      <Item47>
+        <Filename Value="..\Source\rmkThemes\TBXDamsokaTheme.pas"/>
+        <UnitName Value="TBXDamsokaTheme"/>
+      </Item47>
+      <Item48>
+        <Filename Value="..\Source\rmkThemes\TBXDreamTheme.pas"/>
+        <UnitName Value="TBXDreamTheme"/>
+      </Item48>
+      <Item49>
+        <Filename Value="..\Source\rmkThemes\TBXEchoTheme.pas"/>
+        <UnitName Value="TBXEchoTheme"/>
+      </Item49>
+      <Item50>
+        <Filename Value="..\Source\rmkThemes\TBXEos9Theme.pas"/>
+        <UnitName Value="TBXEos9Theme"/>
+      </Item50>
+      <Item51>
+        <Filename Value="..\Source\rmkThemes\TBXEosTheme.pas"/>
+        <UnitName Value="TBXEosTheme"/>
+      </Item51>
+      <Item52>
+        <Filename Value="..\Source\rmkThemes\TBXMonaiXPTheme.pas"/>
+        <UnitName Value="TBXMonaiXPTheme"/>
+      </Item52>
+      <Item53>
+        <Filename Value="..\Source\rmkThemes\TBXNewOfficeAdaptiveTheme.pas"/>
+        <UnitName Value="TBXNewOfficeAdaptiveTheme"/>
+      </Item53>
+      <Item54>
+        <Filename Value="..\Source\rmkThemes\TBXNewOfficeTheme.pas"/>
+        <UnitName Value="TBXNewOfficeTheme"/>
+      </Item54>
+      <Item55>
+        <Filename Value="..\Source\rmkThemes\TBXNexos2Theme.pas"/>
+        <UnitName Value="TBXNexos2Theme"/>
+      </Item55>
+      <Item56>
+        <Filename Value="..\Source\rmkThemes\TBXNexos3Theme.pas"/>
+        <UnitName Value="TBXNexos3Theme"/>
+      </Item56>
+      <Item57>
+        <Filename Value="..\Source\rmkThemes\TBXNexos4Theme.pas"/>
+        <UnitName Value="TBXNexos4Theme"/>
+      </Item57>
+      <Item58>
+        <Filename Value="..\Source\rmkThemes\TBXNexos5Theme.pas"/>
+        <UnitName Value="TBXNexos5Theme"/>
+      </Item58>
+      <Item59>
+        <Filename Value="..\Source\rmkThemes\TBXNexosXTheme.pas"/>
+        <UnitName Value="TBXNexosXTheme"/>
+      </Item59>
+      <Item60>
+        <Filename Value="..\Source\rmkThemes\TBXOffice11AdaptiveTheme.pas"/>
+        <UnitName Value="TBXOffice11AdaptiveTheme"/>
+      </Item60>
+      <Item61>
+        <Filename Value="..\Source\rmkThemes\TBXOffice11XPTheme.pas"/>
+        <UnitName Value="TBXOffice11XPTheme"/>
+      </Item61>
+      <Item62>
+        <Filename Value="..\Source\rmkThemes\TBXOfficeCTheme.pas"/>
+        <UnitName Value="TBXOfficeCTheme"/>
+      </Item62>
+      <Item63>
+        <Filename Value="..\Source\rmkThemes\TBXOfficeKTheme.pas"/>
+        <UnitName Value="TBXOfficeKTheme"/>
+      </Item63>
+      <Item64>
+        <Filename Value="..\Source\rmkThemes\TBXRomaTheme.pas"/>
+        <UnitName Value="TBXRomaTheme"/>
+      </Item64>
+      <Item65>
+        <Filename Value="..\Source\rmkThemes\TBXSentimoXTheme.pas"/>
+        <UnitName Value="TBXSentimoXTheme"/>
+      </Item65>
+      <Item66>
+        <Filename Value="..\Source\rmkThemes\TBXTristanTheme.pas"/>
+        <UnitName Value="TBXTristanTheme"/>
+      </Item66>
+      <Item67>
+        <Filename Value="..\Source\rmkThemes\TBXWhidbeyTheme.pas"/>
+        <AddToUsesPkgSection Value="False"/>
+        <UnitName Value="TBXWhidbeyTheme"/>
+      </Item67>
+      <Item68>
+        <Filename Value="..\Source\rmkThemes\TBXXitoTheme.pas"/>
+        <UnitName Value="TBXXitoTheme"/>
+      </Item68>
+    </Files>
+    <RequiredPkgs Count="1">
+      <Item1>
+        <PackageName Value="IDEIntf"/>
+      </Item1>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
